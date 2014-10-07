@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Pirnter_DEMO_80mm</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title">Printer DEMO(80mm)</string>
+    <string name="dayin_gb2312">print text(gb2312)\n打印文字(中文国标字库)</string>
+    <string name="dayin_unicode">print text(unicode)\n打印文字(Unicode字库)</string>
+    <string name="print_qrcode">print QRCode\n打印二维码</string>
+    <string name="print_image">print Image\n打印图片</string>
+    <string name="print_zijian">printer Test\n打印机自检</string>
+    <string name="print_convert">covert printer control\n启动打印机控制</string>
+</resources>
